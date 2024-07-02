@@ -26,7 +26,7 @@ const ahmetalp = {
 - SQLite
 - MongoDB
 
-## Kullandığım IDEler
+## 🔌 Kullandığım IDEler
 - PyCharm
 - Visual Studio
 - Visual Studio Code
