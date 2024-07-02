@@ -1,5 +1,10 @@
 # Merhaba, ben Ahmet Alp! 👋
 
+```js
+const ahmetalp = {
+
+};
+```
 Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
 - Node.js
 - JavaScript
