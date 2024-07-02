@@ -27,6 +27,7 @@ const ahmetalp = {
 - MongoDB
 
 ## Kullandığım IDEler
+- PyCharm
 - Visual Studio
 - Visual Studio Code
 
