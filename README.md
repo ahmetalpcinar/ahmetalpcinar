@@ -14,6 +14,7 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
+![JavaScript Image](https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/js.png)
 - HTML
 - CSS
 - JavaScript
