@@ -15,7 +15,7 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
-<img src="https://simpleicons.org/icons/html5.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/css3.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/python.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/c#.svg" width="50" height="50">
+<img src="https://simpleicons.org/icons/html5.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/css3.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/python.svg" width="50" height="50"> <img src="https://www.flaticon.com/free-icon/c-logo_74906" width="50" height="50">
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
