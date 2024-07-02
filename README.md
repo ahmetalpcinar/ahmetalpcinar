@@ -13,9 +13,6 @@ const ahmetalp = {
 };
 ```
 Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
-- Node.js
-- JavaScript
-- Web sayfaları ve masaüstü uygulamaları
 
 ## 📧 İletişim
 - [LinkedIn](https://www.linkedin.com/in/ahmetalpcinar)
