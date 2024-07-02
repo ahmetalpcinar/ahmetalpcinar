@@ -27,6 +27,10 @@ const ahmetalp = {
 - SQLite
 - MongoDB
 
+## Kullandığım IDEler
+- Visual Studio
+- Visual Studio Code
+
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
 - E-Postam: cinaralp32@gmail.com
