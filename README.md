@@ -14,6 +14,9 @@ const ahmetalp = {
 };
 ```
 
+## 💻 Bildiğim Kodlama Dilleri
+- ![JavaScript](https://simpleicons.org/icons/javascript.svg)
+
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
 - E-Postam: cinaralp32@gmail.com
