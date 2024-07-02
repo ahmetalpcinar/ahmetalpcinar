@@ -15,5 +15,5 @@ const ahmetalp = {
 Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
 
 ## 📧 İletişim
-- [LinkedIn](https://www.linkedin.com/in/ahmetalpcinar)
-- [E-Posta](cinaralp32@gmail.com)
+- [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
+- E-Postam: cinaralp32@gmail.com
