@@ -1,7 +1,6 @@
 # 👋 Merhaba, ben Ahmet Alp!
 
 ## ❗ Hakkımda
-Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
 ```js
 const ahmetalp = {
     name: "Ahmet Alp",
