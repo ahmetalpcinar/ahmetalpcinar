@@ -13,14 +13,11 @@ const ahmetalp = {
 };
 ```
 
-## 💻 Kullandığım Kodlama Dilleri
+## 💻 Bildiğim Kodlama Dilleri
 <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/html.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/css.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/js.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/python.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/c-sharp.png" width="50" height="50">
 
 ## 📁 Kullandığım Databaseler
-- Quick.db
-- SQL
-- SQLite
-- MongoDB
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/sql.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/mongo.png" width="50" height="50">
 
 ## 🔌 Kullandığım IDEler
 - PyCharm
