@@ -20,9 +20,7 @@ const ahmetalp = {
 <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/sql.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/mongo.png" width="50" height="50">
 
 ## 🔌 Kullandığım IDEler
-- PyCharm
-- Visual Studio
-- Visual Studio Code
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/pycharm.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/vs.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/vsc.png" width="50" height="50">
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
