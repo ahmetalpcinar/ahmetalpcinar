@@ -5,7 +5,7 @@ const ahmetalp = {
     name: "Ahmet Alp",
     surname: "Çınar",
     age: 20,
-    place: "Turkey/Istanbul",
+    place: "Istanbul/Turkey",
     foreign_languages: ["Turkish", "English"],
     coding_languages: ["HTML", "CSS", "JavaScript", "Python", "C#", ]
 };
