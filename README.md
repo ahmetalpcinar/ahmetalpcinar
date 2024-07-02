@@ -8,10 +8,11 @@ const ahmetalp = {
     age: 20,
     place: "Istanbul/Turkey",
     foreign_languages: ["Turkish", "English"],
-    coding_languages: ["HTML", "CSS", "JavaScript", "Python", "C#", ]
+    coding_languages: ["HTML", "CSS", "JavaScript", "Python", "C#", ],
+    info: "I'm a developer who makes desktop applications and web pages.",
 };
 ```
-Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
+Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
 - Node.js
 - JavaScript
 - Web sayfaları ve masaüstü uygulamaları
