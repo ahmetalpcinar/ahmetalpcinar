@@ -15,17 +15,17 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
-HTML
-CSS
-JavaScript
-Python
-C#
+- HTML
+- CSS
+- JavaScript
+- Python
+- C#
 
 ## 📁 Kullandığım Databaseler
-Quick.db
-SQL
-SQLite
-MongoDB
+- Quick.db
+- SQL
+- SQLite
+- MongoDB
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
