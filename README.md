@@ -1,6 +1,7 @@
 # 👋 Merhaba, ben Ahmet Alp!
 
 ## ❗ Hakkımda
+Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
 ```js
 const ahmetalp = {
     name: "Ahmet Alp",
@@ -12,7 +13,6 @@ const ahmetalp = {
     info: "I'm a developer who makes desktop applications and web pages.",
 };
 ```
-Ben bir, masaüstü uygulaması ve web sayfası geliştiricisiyim.
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
