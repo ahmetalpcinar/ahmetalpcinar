@@ -2,7 +2,10 @@
 
 ```js
 const ahmetalp = {
-
+name: "Ahmet Alp",
+surname: "Çınar",
+age: 20,
+place: "Turkey/Istanbul"
 };
 ```
 Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
