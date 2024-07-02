@@ -7,4 +7,4 @@ Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
 
 ## İletişim
 - [LinkedIn](https://www.linkedin.com/in/ahmetalpcinar)
-- [E-posta](cinaralp32@gmail.com)
+- [E-Posta](cinaralp32@gmail.com)
