@@ -1,5 +1,6 @@
-# Merhaba, ben Ahmet Alp! 👋
+# 👋 Merhaba, ben Ahmet Alp!
 
+## Hakkımda
 ```js
 const ahmetalp = {
     name: "Ahmet Alp",
