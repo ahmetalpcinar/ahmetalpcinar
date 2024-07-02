@@ -15,7 +15,17 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
-<img src="https://simpleicons.org/icons/html5.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/css3.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/javascript.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/python.svg" width="50" height="50"> <img src="https://simpleicons.org/icons/cplusplus.svg" width="50" height="50">
+HTML
+CSS
+JavaScript
+Python
+C#
+
+## 📁 Kullandığım Databaseler
+Quick.db
+SQL
+SQLite
+MongoDB
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
