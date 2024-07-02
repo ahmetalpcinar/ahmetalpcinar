@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Ahmet Alp!
 
-## Hakkımda
+## ❗ Hakkımda
 ```js
 const ahmetalp = {
     name: "Ahmet Alp",
@@ -16,6 +16,6 @@ Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
 - JavaScript
 - Web sayfaları ve masaüstü uygulamaları
 
-## İletişim
+## 📧 İletişim
 - [LinkedIn](https://www.linkedin.com/in/ahmetalpcinar)
 - [E-Posta](cinaralp32@gmail.com)
