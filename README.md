@@ -6,6 +6,5 @@ Ben bir web geliştiricisiyim ve aşağıdaki teknolojilerde uzmanım:
 - Web sayfaları ve masaüstü uygulamaları
 
 ## İletişim
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [E-posta](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ahmetalpcinar)
+- [E-posta](cinaralp32@gmail.com)
