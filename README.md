@@ -15,7 +15,7 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
-- ![JavaScript](https://simpleicons.org/icons/javascript.svg)
+- <img src="https://simpleicons.org/icons/javascript.svg" width="20" height="20">
 
 ## 📧 İletişim
 - [LinkedIn Hesabım](https://www.linkedin.com/in/ahmetalpcinar)
