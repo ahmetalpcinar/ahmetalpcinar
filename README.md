@@ -14,7 +14,9 @@ const ahmetalp = {
 ```
 
 ## 💻 Bildiğim Kodlama Dilleri
-<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/html.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/css.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/js.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/python.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/c-sharp.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/asp-net.png" width="50" height="50">
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/html.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/css.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/js.png" width="50" height="50">
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/python.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/c-sharp.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/asp-net.png" width="50" height="50">
 <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/nodejs.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/jquery.png" width="50" height="50"> <img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/ajax.png" width="50" height="50">
 
 ## 📁 Kullandığım Databaseler
