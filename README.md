@@ -8,7 +8,7 @@ const ahmetalp = {
     age: 20,
     place: "Istanbul/Turkey",
     foreign_languages: ["Turkish", "English"],
-    coding_languages: ["HTML", "CSS", "JavaScript", "Python", "C#", ],
+    coding_languages: ["HTML", "CSS", "JavaScript", "Python", "C#", "Node.js", "ASP.NET", "MVC", "jQuery", "Ajax"],
     info: "I'm a developer who makes desktop applications and web pages.",
 };
 ```
